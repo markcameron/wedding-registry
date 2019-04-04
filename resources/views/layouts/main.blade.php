@@ -149,6 +149,26 @@
        text-align: center;
        padding-top: 25%;
      }
+
+     .flex-caption-text {
+       background-color: rgba(32,32,32,0.7);
+       padding: 2em;
+     }
+
+     @media only screen and (max-width: 767px) {
+     .flex-caption-text h2 {
+       font-size: 34px;
+     }
+     }
+
+     @media only screen and (min-width: 767px) {
+     .flex-caption-table {
+       width: 100%;
+     }
+     .flex-caption-text {
+       margin-top: 15em;
+     }
+     }
     </style>
     <div id="overlay" style="display:none;">
       <img src="/images/loader.gif" alt="Loading" /><br/>
