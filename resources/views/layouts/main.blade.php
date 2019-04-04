@@ -169,6 +169,13 @@
        margin-top: 15em;
      }
      }
+
+     @media only screen and (max-width: 767px) {
+     .flex-caption-text h2 {
+       font-size: 33px;
+       line-height:1.2em;
+     }
+     }
     </style>
     <div id="overlay" style="display:none;">
       <img src="/images/loader.gif" alt="Loading" /><br/>

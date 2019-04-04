@@ -12,8 +12,8 @@
               <div class="flex-caption-table">
                 <div class="flex-caption-cell">
                   <div class="flex-caption-text">
-                    <h2>Rachel and Mark Wedding Registry</h2>
-                    <p>As far as material things go, we are covered and do not need anything more. However if you want to get us something we would glady accept a donation towards our honeymoon to make that little bit more special.</p>
+                    <h2>Rachel and Mark Honeymoon Fund</h2>
+                    <p>As far as material things go, we are covered and do not need anything more. However if you want to get us something we would glady accept a donation towards our honeymoon to make it that little bit more special. Our destination is still being decided, but we want to make it an adventure!</p>
                   </div>
                 </div>
               </div>
